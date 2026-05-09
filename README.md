@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VaayuVigyaan AI — India Air Pollution Intelligence Platform
 
 **VaayuVigyaan AI** is a futuristic, hackathon-ready **Streamlit** platform that predicts **PM2.5**, converts it to **AQI-like categories**, generates **health recommendations**, produces **AI insights**, forecasts short-term pollution risk, and simulates **what-if reduction scenarios**.
@@ -66,3 +67,7 @@ On first run, if the XGBoost model artifacts are missing, the app will train the
 - The ML model is trained on synthetic feature relationships and packaged for repeatable predictions.
 
 
+=======
+# VaayuVigyaan
+VaayuVigyaan is an AI-driven environmental monitoring platform that predicts PM2.5 pollution levels, analyzes AQI trends, provides health impact insights, and visualizes air quality data through interactive dashboards built with Python, Machine Learning, and Streamlit.
+>>>>>>> c64f6283f9ecdb52c0ff56c870625a52323ecddb
